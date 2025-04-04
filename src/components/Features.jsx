@@ -114,7 +114,7 @@ const Features = () => (
 
       <BentoTilt className="border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">
         <BentoCard
-          src="videos/feature-1.mp4"
+          src="https://awards-website-vite.s3.ap-south-1.amazonaws.com/videos/feature-1.mp4"
           title={
             <>
               radia<b>n</b>t
